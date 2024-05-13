@@ -83,22 +83,22 @@ Publish the website in the LocalHost.
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8">
-        <h1>WELCOME TO JAI SPORTS</h1>
-        <p>Welcome to JAI SPORTS.We provide you the best quality of sports kits.Customers well being is what we wish always.</p>
-        <p>At Our sports shop, we provide you all kind of sports kit.</p>
-        <p>Thank you for choosing and trusting our sports shop.</p>
+        <h1>WELCOME TO JAI Pharmaceutical Company</h1>
+        <p>Welcome to Pharmaceutical Company.We provide you the best quality of MEDICINE.Customers well being is what we wish always.</p>
+        <p>At Our Pharmaceutical Company, we provide you all kind of medicine.</p>
+        <p>Thank you for choosing and trusting our Pharmaceutical Company.</p>
       </div>
       <div class="col-md-5">
-        <img src="sports.jpeg" width="300" height="300">
+        <img src="pha.jpeg" width="300" height="300">
       </div>
       <div class="col-md-4">
-        <img src="sports1.jpeg" width="300" height="300">
+        <img src="pharma.jpeg" width="300" height="300">
       </div>
         </div>
     </div>
   </div>
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; JAI SPORTS-JAIGANESH(212221040063).All rigths reserved.</p>
+    <p>&copy; JAI Pharmaceutical Company-JAIGANESH(212221040063).All rigths reserved.</p>
   </footer>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
@@ -136,7 +136,7 @@ ABOUT.HTML
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">JAI SPORTS</a>
+    <a class="navbar-brand" href="#">JAI Pharmaceutical Company</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -169,17 +169,16 @@ ABOUT.HTML
       <div class="col-md-12">
         <h1>About JAI SPORTS SHOP</h1>
         <div >
-            <h2>A Haven for Sports Enthusiasts</h2>
-            <p>our shop is a haven where athletes of all ages and skill levels can find everything they need to pursue their passions. From premium equipment to expert advice, we're dedicated to helping our customers perform at their best and enjoy their chosen sports to the fullest.</p>
+            <h2>Specialization</h2>
+           <p>JAI Pharmaceutical Company specializes in the development of therapeutic solutions across a spectrum of critical medical areas, including oncology, neurology, and cardiovascular diseases. Through our relentless pursuit of innovation, we continuously push the boundaries of scientific discovery.</p>
         </div>
         <div >
-          <h2>A Wide Range of Quality Products</h2>
-          <p>Step into Jai Sports Shop, and you'll discover a comprehensive selection of top-quality sports gear and apparel. Whether you're into basketball, soccer, tennis, or yoga, we've got you covered. Our shelves are stocked with the latest equipment from leading brands, ensuring that every athlete</p>
+          <h2>Innovation</h2>
+          <p> JAI Pharmaceutical Company has been at the forefront of innovation in the pharmaceutical industry. Committed to improving global healthcare standards, our mission is to provide cutting-edge solutions that address unmet medical needs</p>
         </div>
         <div >
-          <h2>Exceptional Service and Expertise</h2>
-          <p>Jai Sports Shop apart is our commitment to providing exceptional service and expertise to our customers. Our knowledgeable staff members are passionate about sports and are always on hand to offer personalized recommendations and advice. </p>
-          </p>
+          <h2>Recent Achievements </h2>
+          <p>In recent years, JAI Pharmaceutical Company has achieved significant milestones, including the successful launch of groundbreaking medications and the initiation of promising clinical trials. These accomplishments reflect our unwavering commitment to scientific excellence and patient-centric values. </p>
         </div>
       </div>
     </div>
@@ -224,7 +223,7 @@ CONTACT.HTML
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">JAI SPORTS</a>
+    <a class="navbar-brand" href="#">JAI Pharmaceutical Company</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -267,7 +266,7 @@ CONTACT.HTML
         </form>
       </div>
       <div class="col-md-4">
-        <h2>JAI SPORTS</h2>
+        <h2>JAI Pharmaceutical Company</h2>
         <address>
           <strong>Address:</strong><br>
           2.233/2 cross street,pavithramanickam,chennai<br>
@@ -281,7 +280,7 @@ CONTACT.HTML
     </div>
   </div>
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; JAI SPORTS-JAIGANESH(212221040063).All rigths reserved.</p>
+    <p>&copy; JAI Pharmaceutical Company-JAIGANESH(212221040063).All rigths reserved.</p>
   </footer>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
@@ -292,6 +291,7 @@ CONTACT.HTML
 
 ```
 PRODUCT.HTML
+
 
 
 <html lang="en">
@@ -326,7 +326,7 @@ PRODUCT.HTML
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">JAI SPORTS</a>
+    <a class="navbar-brand" href="#">JAI Pharmaceutical Company</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -362,24 +362,24 @@ PRODUCT.HTML
         <h1>Our Products</h1>
         <div class="card-deck">
           <div class="card">
-            <img src="bat.jpeg" class="card-img-top" >
+            <img src="tab.jpeg" class="card-img-top" >
             <div class="card-body">
-              <h5 class="card-title">Cricket Bat</h5>
-              <p class="card-text">CEAT CRICKET BAT</p>
+              <h5 class="card-title">TABLET</h5>
+              <p class="card-text">Dolo 650 for fever is available</p>
                </div>
           </div>
           <div class="card">
-            <img src="football.jpeg" class="card-img-top">
+            <img src="oin.jpeg" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title">FOOTBALL</h5>
-              <p class="card-text">FIFA FOOTBALL,ADIDAS,PUMA BRANDS ALSO AVAILABLE</p>
+              <h5 class="card-title">Ointment</h5>
+              <p class="card-text">For all disease we have ointment</p>
             </div>
           </div>
           <div class="card">
-            <img src="carrom.png" class="card-img-top" >
+            <img src="syrup.jpeg" class="card-img-top" >
             <div class="card-body">
-              <h5 class="card-title">CARROM BOARD</h5>
-              <p class="card-text">ALL BRAND CARROM BOARD ARA=E AVAILABLE IN OUR SHOP</p>    
+              <h5 class="card-title">Syrup</h5>
+              <p class="card-text">For cough we have a special syrup</p>    
             </div>
           </div>
         </div>
@@ -387,7 +387,7 @@ PRODUCT.HTML
     </div>
   </div>
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; JAI SPORTS-JAIGANESH(212221040063).All rigths reserved.</p>
+    <p>&copy; JAI Pharmaceutical Company-JAIGANESH(212221040063).All rigths reserved.</p>
   </footer>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
@@ -397,9 +397,9 @@ PRODUCT.HTML
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-12 191917.png>)
-![alt text](<Screenshot 2024-05-12 191935.png>)
-![alt text](<Screenshot 2024-05-12 191945.png>)
-![alt text](<Screenshot 2024-05-12 192000.png>)
+![alt text](<Screenshot 2024-05-13 133359.png>)
+![alt text](<Screenshot 2024-05-13 133414.png>)
+![alt text](<Screenshot 2024-05-13 133429.png>)
+![alt text](<Screenshot 2024-05-13 133439.png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
