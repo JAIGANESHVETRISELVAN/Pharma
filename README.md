@@ -54,7 +54,7 @@ Publish the website in the LocalHost.
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">JAI SPORTS</a>
+    <a class="navbar-brand" href="#">JAI Pharmaceutical Company </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -184,7 +184,7 @@ ABOUT.HTML
     </div>
   </div>
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; JAI SPORTS-JAIGANESH(212221040063).All rigths reserved.</p>
+    <p>&copy; JAI Pharmaceutical Company -JAIGANESH(212221040063).All rigths reserved.</p>
   </footer>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
@@ -397,8 +397,8 @@ PRODUCT.HTML
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-13 133359.png>)
-![alt text](<Screenshot 2024-05-13 133414.png>)
+![alt text](<Screenshot 2024-05-13 134910.png>)
+ ![alt text](<Screenshot 2024-05-13 134831.png>)
 ![alt text](<Screenshot 2024-05-13 133429.png>)
 ![alt text](<Screenshot 2024-05-13 133439.png>)
 ## RESULT:
